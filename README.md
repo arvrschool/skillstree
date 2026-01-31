@@ -52,13 +52,23 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [git-pushing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/git-pushing) | Automate git operations and repository interactions. |
 | [review-implementing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/review-implementing) | Evaluate code implementation plans and align with specs. |
 | [test-fixing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/test-fixing) | Detect failing tests and propose patches or fixes. |
-| [Claude Mountaineering Skills](https://github.com/DmytroGaivoronsky) | Automates mountain route research generating reports. |
-| [Codex Skill](https://github.com/klaudworks) | Enables users to prompt Codex from Claude Code. |
-| [Context Engineering Kit](https://github.com/VladGoncharov) | Hand-crafted collection of context engineering techniques. |
-| [Superpowers](https://github.com/JesseVincent) | Core competencies for software engineering. |
-| [Trail of Bits Security Skills](https://github.com/TrailOfBits) | Security-focused skills for code auditing. |
-| [Web Assets Generator Skill](https://github.com/AlonWolenitz) | Generate favicons and social media meta images. |
-| [AB Method](https://github.com/AyoubBensalah) | Spec-driven workflow for incremental missions. |
+| [Claude Mountaineering Skills](https://github.com/dreamiurg/claude-mountaineering-skills) | Automates mountain route research generating reports. |
+| [Codex Skill](https://github.com/skills-directory/skill-codex) | Enables users to prompt Codex from Claude Code. |
+| [Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit) | Hand-crafted collection of context engineering techniques. |
+| [Superpowers](https://github.com/obra/superpowers) | Core competencies for software engineering. |
+| [Trail of Bits Security Skills](https://github.com/trailofbits/skills) | Security-focused skills for code auditing. |
+| [Web Assets Generator Skill](https://github.com/alonw0/web-asset-generator) | Generate favicons and social media meta images. |
+| [AB Method](https://github.com/ayoubben18/ab-method) | Spec-driven workflow for incremental missions. |
+| [WebF Skills](https://github.com/openwebf/webf) | Flutter-based web rendering engine skills. |
+| [Prowler Cloud Security](https://github.com/prowler-cloud/prowler) | Cloud security assessment and auditing. |
+| [Next.js Skills](https://github.com/vercel/next.js) | Skills for Next.js framework development. |
+| [HeroUI Skills](https://github.com/heroui-inc/heroui) | UI component skills for HeroUI. |
+| [Resume Matcher](https://github.com/srbhr/Resume-Matcher) | Skills for parsing and matching resumes. |
+| [Gentleman Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) | Dotfiles and configuration skills. |
+| [BasedHardware OMI](https://github.com/BasedHardware/omi) | Skills related to OMI hardware devices. |
+| [Bun Skills](https://github.com/oven-sh/bun) | Testing and runtime skills for Bun. |
+| [Nx Skills](https://github.com/nrwl/nx) | CI/CD and monorepo management skills. |
+| [PowerToys Skills](https://github.com/microsoft/PowerToys) | Utilities for power users. |
 
 ## 💼 Business & Specialized Industry Skills
 *Skills for marketing, smart homes, and other specific domains.*
@@ -78,7 +88,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Automatically organizes invoices and receipts. |
 | [kaizen](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/kaizen) | Applies continuous improvement methodology. |
 | [Tailored Resume Generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator) | Analyzes job descriptions and generates tailored resumes. |
-| [Ralph Wiggum Marketer](https://github.com/MuratcanKoylan) | Autonomous AI copywriter integrating research agents. |
+| [Ralph Wiggum Marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) | Autonomous AI copywriter integrating research agents. |
+| [WSHobson Agents](https://github.com/wshobson/agents) | Extensive collection including HR, Legal, Cloud, and Business skills. |
+| [Novu Skills](https://github.com/novuhq/novu) | Notification infrastructure and automation skills. |
 
 ## 📊 Data & Analysis
 *Tools for databases, visualization, research, and scraping.*
@@ -86,9 +98,13 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | Name | Description |
 | :--- | :--- |
 | [CSV Data Summarizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/csv-data-summarizer) | Automatically analyzes CSV files and generates insights. |
-| [deep-research](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/deep-research) | Execute autonomous multi-step research. |
+| [deep-research](https://github.com/dzhng/deep-research) | Execute autonomous multi-step research. |
 | [postgres](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/postgres) | Execute safe read-only SQL queries against PostgreSQL. |
 | [root-cause-tracing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/root-cause-tracing) | Trace execution back to find the original trigger of errors. |
+| [Sentry Skills](https://github.com/getsentry/sentry) | Error tracking and monitoring skills. |
+| [Letta Memory](https://github.com/letta-ai/letta) | Advanced memory management for agents. |
+| [ClickHouse Skills](https://github.com/ClickHouse/ClickHouse) | Real-time analytics and OLAP database skills. |
+| [TiDB Skills](https://github.com/pingcap/tidb) | Distributed SQL database skills. |
 
 ## 🎨 Creative & Media
 *Tools for image, video, and audio generation.*
@@ -100,8 +116,14 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Image Enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) | Improves image and screenshot quality. |
 | [Slack GIF Creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-gif-creator) | Creates animated GIFs optimized for Slack. |
 | [Theme Factory](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/theme-factory) | Applies professional font and color themes to artifacts. |
+| [Claude Code Templates](https://github.com/davila7/claude-code-templates) | Extensive collection including Video Downloader, Marketing, and Research skills. |
 | [Video Downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) | Downloads videos from YouTube and other platforms. |
 | [youtube-transcript](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/youtube-transcript) | Fetch transcripts from YouTube videos and prepare summaries. |
+| [OpenClaw Skills](https://github.com/openclaw/openclaw) | Collection including Gifgrep, Whisper API, Songsee, Camsnap. |
+| [Anthropics Skills](https://github.com/anthropics/skills) | Official skills including Slack GIF Creator, Frontend Design, Canvas. |
+| [Remotion Skills](https://github.com/remotion-dev/remotion) | Video creation skills for Remotion. |
+| [LobeHub Agents](https://github.com/lobehub/lobehub) | Agent skills including microcopy. |
+| [ClaudeKit Skills](https://github.com/mrgoonie/claudekit-skills) | Media processing and AI multimodal skills. |
 
 ## 🛡️ Security & Systems
 *Skills for forensics, file management, and security analysis.*
@@ -113,6 +135,21 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [metadata-extraction](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/metadata-extraction) | Extract and analyze file metadata for forensic purposes. |
 | [threat-hunting-with-sigma-rules](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/threat-hunting-with-sigma-rules) | Use Sigma detection rules to hunt for threats. |
 | [File Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) | Intelligently organizes files and folders. |
+
+## ⚡ Productivity & Automation Skills
+*Skills for workflow automation, data management, and operational efficiency.*
+
+| Name | Description |
+| :--- | :--- |
+| [Browser Use](https://github.com/browser-use/browser-use) | Autonomous browser automation for web tasks. |
+| [Metabase Skills](https://github.com/metabase/metabase) | Business intelligence and data visualization skills. |
+| [Agno Skills](https://github.com/agno-agi/agno) | Framework for building autonomous agents. |
+| [MLflow Skills](https://github.com/mlflow/mlflow) | Machine learning lifecycle management and tracking. |
+| [CockroachDB Skills](https://github.com/cockroachdb/cockroach) | Distributed SQL database management skills. |
+| [Wox Launcher](https://github.com/Wox-launcher/Wox) | Productivity launcher and workflow automation. |
+| [FastGPT Skills](https://github.com/labring/FastGPT) | Knowledge base and QA system integration. |
+| [Airbyte Skills](https://github.com/airbytehq/airbyte) | ELT data pipelines and integration skills. |
+| [Awesome Copilot Skills](https://github.com/github/awesome-copilot) | Official GitHub Copilot extension skills. |
 
 ## 🛠️ Skill Management & Creation Tools
 *Tools to discover, manage, and generate new skills.*
@@ -129,8 +166,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) | Meta-skill for autonomously creating complete agents and skills. |
 | [MCP Builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder) | Guides creation of high-quality MCP servers for integrating APIs. |
 | [Skill Creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator) | Guidance for creating effective Claude Skills. |
-| [Claude Code Templates](https://github.com/DanielAvila) | Collection of resources with a polished UI, dashboard, and analytics. |
-| [Rulesync](https://github.com/dyoshikawa) | CLI tool that automatically generates configs for AI coding agents. |
+| [Claude Code Templates](https://github.com/davila7/claude-code-templates) | Collection of resources with a polished UI, dashboard, and analytics. |
+| [Rulesync](https://github.com/dyoshikawa/rulesync) | CLI tool that automatically generates configs for AI coding agents. |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
