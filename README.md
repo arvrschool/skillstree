@@ -21,6 +21,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Content Research Writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) | Assists in writing high-quality content with citations. |
 | [Meeting Insights Analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer) | Analyzes meeting transcripts for behavioral patterns. |
 | [NotebookLM Integration](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/notebooklm-integration) | Lets Claude Code chat directly with NotebookLM. |
+| [WordPress-Publishing-Skill-For-Claude](https://github.com/ReitoKira/WordPress-Publishing-Skill-For-Claude) | Publish to WordPress effortlessly with Gutenberg support and SEO generation. |
+| [audio-to-subtitles](https://github.com/kantylee/audio-to-subtitles) | OpenClaw skill for extracting subtitles from audio (SRT/FCPXML/TXT). |
+| [video-audio-extractor](https://github.com/kantylee/video-audio-extractor) | Extract audio from YouTube, Bilibili, or local video files. |
 
 ## 💻 Development & Engineering Skills
 *Skills specifically designed to extend Claude's software engineering capabilities.*
@@ -52,6 +55,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [git-pushing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/git-pushing) | Automate git operations and repository interactions. |
 | [review-implementing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/review-implementing) | Evaluate code implementation plans and align with specs. |
 | [test-fixing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/test-fixing) | Detect failing tests and propose patches or fixes. |
+| [agents-skill](https://github.com/netresearch/agents-skill) | Generates AGENTS.md files following the agents.md convention. |
+| [napkin-web](https://github.com/cg0xC0DE/napkin-web) | Rapid web prototyping skill for Clawdbot - no server, no DB. |
+| [d1-vec-cfbrowser-worker](https://github.com/claushaas/d1-vec-cfbrowser-worker) | Cloudflare browser skill with D1 and Vectorize support. |
 | [Claude Mountaineering Skills](https://github.com/dreamiurg/claude-mountaineering-skills) | Automates mountain route research generating reports. |
 | [Codex Skill](https://github.com/skills-directory/skill-codex) | Enables users to prompt Codex from Claude Code. |
 | [Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit) | Hand-crafted collection of context engineering techniques. |
@@ -91,6 +97,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Ralph Wiggum Marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer) | Autonomous AI copywriter integrating research agents. |
 | [WSHobson Agents](https://github.com/wshobson/agents) | Extensive collection including HR, Legal, Cloud, and Business skills. |
 | [Novu Skills](https://github.com/novuhq/novu) | Notification infrastructure and automation skills. |
+| [OctagonAI/skills](https://github.com/OctagonAI/skills) | A collection of Claude skills for agentic financial research. |
 
 ## 📊 Data & Analysis
 *Tools for databases, visualization, research, and scraping.*
@@ -105,6 +112,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Letta Memory](https://github.com/letta-ai/letta) | Advanced memory management for agents. |
 | [ClickHouse Skills](https://github.com/ClickHouse/ClickHouse) | Real-time analytics and OLAP database skills. |
 | [TiDB Skills](https://github.com/pingcap/tidb) | Distributed SQL database skills. |
+| [deep-research-pro](https://github.com/parags/deep-research-pro) | Multi-source deep research skill for OpenClaw/Clawdbot agents. |
+| [web-search-plus](https://github.com/robbyczgw-cla/web-search-plus) | Unified search skill supporting Serper, Tavily, and Exa. |
 
 ## 🎨 Creative & Media
 *Tools for image, video, and audio generation.*
@@ -135,6 +144,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [metadata-extraction](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/metadata-extraction) | Extract and analyze file metadata for forensic purposes. |
 | [threat-hunting-with-sigma-rules](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/threat-hunting-with-sigma-rules) | Use Sigma detection rules to hunt for threats. |
 | [File Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) | Intelligently organizes files and folders. |
+| [responsible-ai-warning-skill](https://github.com/swardley/responsible-ai-warning-skill) | A basic responsible AI warning skill for Claude. |
+| [openclaw-secure-stack](https://github.com/yi-john-huang/openclaw-secure-stack) | Secure OpenClaw deployment with built-in skills scanner. |
 
 ## ⚡ Productivity & Automation Skills
 *Skills for workflow automation, data management, and operational efficiency.*
@@ -150,6 +161,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [FastGPT Skills](https://github.com/labring/FastGPT) | Knowledge base and QA system integration. |
 | [Airbyte Skills](https://github.com/airbytehq/airbyte) | ELT data pipelines and integration skills. |
 | [Awesome Copilot Skills](https://github.com/github/awesome-copilot) | Official GitHub Copilot extension skills. |
+| [skilllite](https://github.com/EXboys/skilllite) | Lightweight AI Agent Skills engine with system-level sandbox. |
+| [memory-viz-skill](https://github.com/xcxyh/memory-viz-skill) | Memory visualization skill with real-time web interface. |
 
 ## 🛠️ Skill Management & Creation Tools
 *Tools to discover, manage, and generate new skills.*
@@ -168,6 +181,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Skill Creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator) | Guidance for creating effective Claude Skills. |
 | [Claude Code Templates](https://github.com/davila7/claude-code-templates) | Collection of resources with a polished UI, dashboard, and analytics. |
 | [Rulesync](https://github.com/dyoshikawa/rulesync) | CLI tool that automatically generates configs for AI coding agents. |
+| [skill-of-skills](https://github.com/the911fund/skill-of-skills) | Autonomous Discovery Engine for the Claude Code Ecosystem. |
+| [openclaw-skills-archive](https://github.com/openclaw/skills) | Archive of all skills available on clawdhub.com. |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
