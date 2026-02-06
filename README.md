@@ -75,6 +75,14 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Bun Skills](https://github.com/oven-sh/bun) | Testing and runtime skills for Bun. |
 | [Nx Skills](https://github.com/nrwl/nx) | CI/CD and monorepo management skills. |
 | [PowerToys Skills](https://github.com/microsoft/PowerToys) | Utilities for power users. |
+| [vercel-github-actions-deploy-skills](https://github.com/itsOmSarraf/vercel-github-actions-deploy-skills) | Deploy Vercel projects from GitHub Actions on the free Hobby plan. |
+| [agentic-provisioning](https://github.com/ishii2025buziness/agentic-provisioning) | Self-optimizing provisioning system for GitHub repositories. |
+| [agUI-Design-Skills-Library](https://github.com/hghppmnn/agUI-Design-Skills-Library) | A library of design skills for AI agents - UI component libraries. |
+| [skills-build-applications-w-copilot-agent-mode](https://github.com/jxacn/skills-build-applications-w-copilot-agent-mode) | Exercise: Build applications with GitHub Copilot agent mode. |
+| [iiMooDY9-skills](https://github.com/iiMooDY9/skills) | Skills reflecting programming style and philosophy for better collaboration. |
+| [agent-flywheel-clawdbot-skills](https://github.com/Mrc220/agent_flywheel_clawdbot_skills_and_integrations) | Enhance coding workflows with Clawdbot skills and integrations. |
+| [claude-code-dev](https://github.com/acavigneaux/claude-code-dev) | Autonomous dev agent: clone, branch, code, PR, Vercel preview. |
+| [lambda-lang-skill](https://github.com/voidborne-agent/lambda-lang-skill) | OpenClaw skill for Lambda agent-to-agent communication language. |
 
 ## 💼 Business & Specialized Industry Skills
 *Skills for marketing, smart homes, and other specific domains.*
@@ -98,6 +106,11 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [WSHobson Agents](https://github.com/wshobson/agents) | Extensive collection including HR, Legal, Cloud, and Business skills. |
 | [Novu Skills](https://github.com/novuhq/novu) | Notification infrastructure and automation skills. |
 | [OctagonAI/skills](https://github.com/OctagonAI/skills) | A collection of Claude skills for agentic financial research. |
+| [TrendAI-Claude-Skill](https://github.com/JustinDPerkins/TrendAI-Claude-Skill) | TrendAI Claude Code Skill for business intelligence. |
+| [claude-plugin](https://github.com/Ad-Superpowers/claude-plugin) | AI-powered advertising intelligence plugin with 90+ expert skills. |
+| [founder-skills](https://github.com/ognjengt/founder-skills) | Claude skills specifically designed for startup founders. |
+| [Taiwan-Payment-Skills](https://github.com/Oelshafei1/skills) | Integrate Taiwan's third-party payment solutions (NewebPay, ECPay). |
+| [bloom-identity-skill](https://github.com/unicornbloom/bloom-identity-skill) | Bloom Identity Card Generator - OpenClaw Skill. |
 
 ## 📊 Data & Analysis
 *Tools for databases, visualization, research, and scraping.*
@@ -146,6 +159,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [File Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) | Intelligently organizes files and folders. |
 | [responsible-ai-warning-skill](https://github.com/swardley/responsible-ai-warning-skill) | A basic responsible AI warning skill for Claude. |
 | [openclaw-secure-stack](https://github.com/yi-john-huang/openclaw-secure-stack) | Secure OpenClaw deployment with built-in skills scanner. |
+| [CAPTCHA-Skills](https://github.com/CAPTCHASCO/OpenClaw) | CAPTCHA skills and integration examples for human-verification workflows. |
+| [a2a-secure](https://github.com/vitonique/a2a-secure) | Secure Agent-to-Agent (A2A) messaging skill for OpenClaw. |
 
 ## ⚡ Productivity & Automation Skills
 *Skills for workflow automation, data management, and operational efficiency.*
@@ -163,6 +178,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Awesome Copilot Skills](https://github.com/github/awesome-copilot) | Official GitHub Copilot extension skills. |
 | [skilllite](https://github.com/EXboys/skilllite) | Lightweight AI Agent Skills engine with system-level sandbox. |
 | [memory-viz-skill](https://github.com/xcxyh/memory-viz-skill) | Memory visualization skill with real-time web interface. |
+| [cc-skills-team-builder](https://github.com/PowerAppsDarren/cc-skills) | Plan, configure, spawn, and manage Claude Code agent teams. |
+| [note-todo-skill](https://github.com/MomoChenisMe/awesome-momochenisme-skills) | A note-taking and todo management skill for OpenClaw. |
 
 ## 🛠️ Skill Management & Creation Tools
 *Tools to discover, manage, and generate new skills.*
@@ -183,6 +200,20 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Rulesync](https://github.com/dyoshikawa/rulesync) | CLI tool that automatically generates configs for AI coding agents. |
 | [skill-of-skills](https://github.com/the911fund/skill-of-skills) | Autonomous Discovery Engine for the Claude Code Ecosystem. |
 | [openclaw-skills-archive](https://github.com/openclaw/skills) | Archive of all skills available on clawdhub.com. |
+| [claude-config](https://github.com/atgfw/claude-config) | Portable Claude Code config with 70+ subagents, skills, and hooks. |
+| [claude-cli-starter-pack](https://github.com/evan043/claude-cli-advanced-starter-pack) | Advanced toolkit: agents, hooks, skills, and GitHub integration. |
+| [which-llm](https://github.com/richard-gyiko/which-llm) | Agent skill for selecting the right LLM based on benchmarks and cost. |
+| [claude-skills-boilerplate](https://github.com/itsjwill/claude-skills-boilerplate) | Production-ready LLM application boilerplate. |
+| [vibeindex-skills](https://github.com/vibeindex/skills) | Claude Code skills from Vibe Index. |
+| [openapi-to-skill](https://github.com/hstove/openapi-to-skill) | Generate agent skills directly from OpenAPI specs. |
+| [claude-mods](https://github.com/0xDarkMatter/claude-mods) | Custom commands, skills, and agents for Claude Code. |
+| [TESCHEL-skills](https://github.com/TESCHEL/skills) | SMP skill library for BAiSED Clawdbot. |
+| [BAiSED-skills](https://github.com/BAiSEDagent/skills) | SMP skill library compatible with Google Antigravity. |
+| [Bobxsszef-skills](https://github.com/Bobxsszef/skills) | Curated skills for efficient code navigation and execution. |
+| [agent-skills-cli](https://github.com/stbarbe/agent-skills-cli) | Access and install over 50,000 skills with one command. |
+| [pikaboard](https://github.com/angelstreet/pikaboard) | Agent dashboard for tracking tasks, routines, and skills. |
+| [openclaw-tools](https://github.com/BenediktSchackenberg/openclaw-tools) | Community tools and skills for OpenClaw. |
+| [x-stealth-skills](https://github.com/robinlwong/x-stealth) | Collection of OpenClaw skills. |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
@@ -193,6 +224,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Curated skills, hooks, and agents specifically for Claude Code. |
 | [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 200+ agent skills compatible with Claude Code, Codex, and Gemini. |
 | [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Ultimate collection of 500+ agentic skills for Claude/Cursor. |
+| [agent-skills-learning](https://github.com/jason-TwT/agent_skills_learning) | Learning resources and repositories for agent skills. |
+| [awesome-openclaw-skills](https://github.com/natan89/awesome-openclaw-skills) | Discover over 1715 community-driven OpenClaw skills. |
+| [elsa-multiskill-agent](https://github.com/Demerzels-lab/elsamultiskillagent) | OpenClaw AI Agent Skills Directory with 1700+ skills. |
 
 ---
 *Generated by Gemini CLI LLM Skill Finder*
