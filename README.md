@@ -24,6 +24,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [WordPress-Publishing-Skill-For-Claude](https://github.com/ReitoKira/WordPress-Publishing-Skill-For-Claude) | Publish to WordPress effortlessly with Gutenberg support and SEO generation. |
 | [audio-to-subtitles](https://github.com/kantylee/audio-to-subtitles) | OpenClaw skill for extracting subtitles from audio (SRT/FCPXML/TXT). |
 | [video-audio-extractor](https://github.com/kantylee/video-audio-extractor) | Extract audio from YouTube, Bilibili, or local video files. |
+| [baoyu-url-to-markdown](https://github.com/JimLiu/baoyu-skills) | Fetch any URL via Chrome CDP and convert to clean markdown. |
+| [baoyu-danger-x-to-markdown](https://github.com/JimLiu/baoyu-skills) | Converts X (Twitter) content to markdown format. Supports tweet threads and X Articles. |
+| [baoyu-format-markdown](https://github.com/JimLiu/baoyu-skills) | Format plain text or markdown files with proper frontmatter, titles, summaries, etc. |
 
 ## 💻 Development & Engineering Skills
 *Skills specifically designed to extend Claude's software engineering capabilities.*
@@ -111,6 +114,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [founder-skills](https://github.com/ognjengt/founder-skills) | Claude skills specifically designed for startup founders. |
 | [Taiwan-Payment-Skills](https://github.com/Oelshafei1/skills) | Integrate Taiwan's third-party payment solutions (NewebPay, ECPay). |
 | [bloom-identity-skill](https://github.com/unicornbloom/bloom-identity-skill) | Bloom Identity Card Generator - OpenClaw Skill. |
+| [openclaw-universalprofile-skill](https://github.com/lukso-network/openclaw-universalprofile-skill) | Universal Profile skill for blockchain identity, NFT marketplace, and DEX trading. |
+| [PayLobster](https://github.com/itsGustav/PayLobster) | USDC Agent Skill for Circle payments on Clawdbot. |
 
 ## 📊 Data & Analysis
 *Tools for databases, visualization, research, and scraping.*
@@ -127,6 +132,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [TiDB Skills](https://github.com/pingcap/tidb) | Distributed SQL database skills. |
 | [deep-research-pro](https://github.com/parags/deep-research-pro) | Multi-source deep research skill for OpenClaw/Clawdbot agents. |
 | [web-search-plus](https://github.com/robbyczgw-cla/web-search-plus) | Unified search skill supporting Serper, Tavily, and Exa. |
+| [baoyu-danger-gemini-web](https://github.com/JimLiu/baoyu-skills) | Interacts with Gemini Web to generate text and images. |
+| [research-units-pipeline-skills](https://github.com/WILLOSCAR/research-units-pipeline-skills) | Research pipelines as semantic execution units with evidence-first methodology. |
+| [pubmed-skill](https://github.com/masa061580/pubmed-skill) | PubMed/PMC literature search skill for OpenClaw/Claude Code. |
 
 ## 🎨 Creative & Media
 *Tools for image, video, and audio generation.*
@@ -146,6 +154,14 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [Remotion Skills](https://github.com/remotion-dev/remotion) | Video creation skills for Remotion. |
 | [LobeHub Agents](https://github.com/lobehub/lobehub) | Agent skills including microcopy. |
 | [ClaudeKit Skills](https://github.com/mrgoonie/claudekit-skills) | Media processing and AI multimodal skills. |
+| [baoyu-xhs-images](https://github.com/JimLiu/baoyu-skills) | Xiaohongshu (RedNote) infographic series generator with cartoon-style designs. |
+| [baoyu-infographic](https://github.com/JimLiu/baoyu-skills) | Generate professional infographics with 20 layout types and 17 visual styles. |
+| [baoyu-cover-image](https://github.com/JimLiu/baoyu-skills) | Generate cover images for articles with 54 unique color and rendering combinations. |
+| [baoyu-slide-deck](https://github.com/JimLiu/baoyu-skills) | Generate professional slide deck images from content with comprehensive outlines. |
+| [baoyu-comic](https://github.com/JimLiu/baoyu-skills) | Knowledge comic creator with flexible art styles and tone combinations. |
+| [baoyu-article-illustrator](https://github.com/JimLiu/baoyu-skills) | Smart article illustration skill that analyzes structure to place visual aids. |
+| [baoyu-image-gen](https://github.com/JimLiu/baoyu-skills) | AI SDK-based image generation using OpenAI, Google, and Aliyun APIs. |
+| [baoyu-compress-image](https://github.com/JimLiu/baoyu-skills) | Compress images to reduce file size while maintaining quality. |
 
 ## 🛡️ Security & Systems
 *Skills for forensics, file management, and security analysis.*
@@ -180,6 +196,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [memory-viz-skill](https://github.com/xcxyh/memory-viz-skill) | Memory visualization skill with real-time web interface. |
 | [cc-skills-team-builder](https://github.com/PowerAppsDarren/cc-skills) | Plan, configure, spawn, and manage Claude Code agent teams. |
 | [note-todo-skill](https://github.com/MomoChenisMe/awesome-momochenisme-skills) | A note-taking and todo management skill for OpenClaw. |
+| [baoyu-post-to-x](https://github.com/JimLiu/baoyu-skills) | Post content and long-form Markdown articles to X (Twitter) using Chrome CDP. |
+| [baoyu-post-to-wechat](https://github.com/JimLiu/baoyu-skills) | Post content or full articles to WeChat Official Account with rich formatting. |
 
 ## 🛠️ Skill Management & Creation Tools
 *Tools to discover, manage, and generate new skills.*
@@ -214,6 +232,13 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [pikaboard](https://github.com/angelstreet/pikaboard) | Agent dashboard for tracking tasks, routines, and skills. |
 | [openclaw-tools](https://github.com/BenediktSchackenberg/openclaw-tools) | Community tools and skills for OpenClaw. |
 | [x-stealth-skills](https://github.com/robinlwong/x-stealth) | Collection of OpenClaw skills. |
+| [cosmos](https://github.com/arinyaho/cosmos) | Reusable agent and skill definitions for Claude Code and Codex. |
+| [claude-forge](https://github.com/maroffo/claude-forge) | Token-optimized configurations for Go, Python, Rails, and Terraform. |
+| [sdkwork-agent](https://github.com/Sdkwork-Cloud/sdkwork-agent) | Agent framework for Node.js and browser with skill support. |
+| [skillsmp-searcher](https://github.com/gccszs/skillsmp-searcher) | Search for skills from the SkillsMP open source website. |
+| [ARIA](https://github.com/Patysko/ARIA) | AI agent with self-improvement, compressed memory, and skill system. |
+| [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Professional-grade toolkits for content creation, image processing, and automation. |
+| [skill.fish](https://skill.fish) | A platform for discovering and installing AI agent skills. |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
