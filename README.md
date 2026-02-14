@@ -27,6 +27,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-url-to-markdown](https://github.com/JimLiu/baoyu-skills) | Fetch any URL via Chrome CDP and convert to clean markdown. |
 | [baoyu-danger-x-to-markdown](https://github.com/JimLiu/baoyu-skills) | Converts X (Twitter) content to markdown format. Supports tweet threads and X Articles. |
 | [baoyu-format-markdown](https://github.com/JimLiu/baoyu-skills) | Format plain text or markdown files with proper frontmatter, titles, summaries, etc. |
+| [douban-sync-skill](https://github.com/cosformula/douban-sync-skill) | Douban (璞嗙摚) collection sync to Markdown 鈥 agent skill for exporting and incrementally syncing book/movie/music history |
 
 ## 💻 Development & Engineering Skills
 *Skills specifically designed to extend Claude's software engineering capabilities.*
@@ -86,6 +87,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [agent-flywheel-clawdbot-skills](https://github.com/Mrc220/agent_flywheel_clawdbot_skills_and_integrations) | Enhance coding workflows with Clawdbot skills and integrations. |
 | [claude-code-dev](https://github.com/acavigneaux/claude-code-dev) | Autonomous dev agent: clone, branch, code, PR, Vercel preview. |
 | [lambda-lang-skill](https://github.com/voidborne-agent/lambda-lang-skill) | OpenClaw skill for Lambda agent-to-agent communication language. |
+| [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) | Smart contracts, tools, and skills for AI agents that transact on Starknet |
+| [Clavain](https://github.com/mistakeknot/Clavain) | General-purpose engineering discipline plugin for Claude Code. 27 skills, 23 agents, 21 commands |
 
 ## 💼 Business & Specialized Industry Skills
 *Skills for marketing, smart homes, and other specific domains.*
@@ -116,6 +119,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [bloom-identity-skill](https://github.com/unicornbloom/bloom-identity-skill) | Bloom Identity Card Generator - OpenClaw Skill. |
 | [openclaw-universalprofile-skill](https://github.com/lukso-network/openclaw-universalprofile-skill) | Universal Profile skill for blockchain identity, NFT marketplace, and DEX trading. |
 | [PayLobster](https://github.com/itsGustav/PayLobster) | USDC Agent Skill for Circle payments on Clawdbot. |
+| [ceos](https://github.com/bradfeld/ceos) | EOS (Entrepreneurial Operating System) skills for Claude Code. Run your business on EOS with AI. |
+| [x-twitter-skill](https://github.com/aaronnev/x-twitter-skill) | X/Twitter analytics skill for AI agents. Official API, ~$1-2/mo, no scraping. |
 
 ## 📊 Data & Analysis
 *Tools for databases, visualization, research, and scraping.*
@@ -135,6 +140,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-danger-gemini-web](https://github.com/JimLiu/baoyu-skills) | Interacts with Gemini Web to generate text and images. |
 | [research-units-pipeline-skills](https://github.com/WILLOSCAR/research-units-pipeline-skills) | Research pipelines as semantic execution units with evidence-first methodology. |
 | [pubmed-skill](https://github.com/masa061580/pubmed-skill) | PubMed/PMC literature search skill for OpenClaw/Claude Code. |
+| [hybrid-search-skill-public](https://github.com/writerclaw/hybrid-search-skill-public) | OpenClaw Hybrid Search skill + code sanitized export |
+| [yfinance-ai-skill](https://github.com/lkcair/yfinance-ai-skill) | OpenClaw Finance Data Pull yfinance-ai Skill |
 
 ## 🎨 Creative & Media
 *Tools for image, video, and audio generation.*
@@ -162,6 +169,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-article-illustrator](https://github.com/JimLiu/baoyu-skills) | Smart article illustration skill that analyzes structure to place visual aids. |
 | [baoyu-image-gen](https://github.com/JimLiu/baoyu-skills) | AI SDK-based image generation using OpenAI, Google, and Aliyun APIs. |
 | [baoyu-compress-image](https://github.com/JimLiu/baoyu-skills) | Compress images to reduce file size while maintaining quality. |
+| [teams-meeting-audio](https://github.com/nova328/teams-meeting-audio) | OpenClaw skill for Teams/Zoom meetings with two-way audio (TTS + VAD + STT) |
 
 ## 🛡️ Security & Systems
 *Skills for forensics, file management, and security analysis.*
@@ -177,6 +185,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [openclaw-secure-stack](https://github.com/yi-john-huang/openclaw-secure-stack) | Secure OpenClaw deployment with built-in skills scanner. |
 | [CAPTCHA-Skills](https://github.com/CAPTCHASCO/OpenClaw) | CAPTCHA skills and integration examples for human-verification workflows. |
 | [a2a-secure](https://github.com/vitonique/a2a-secure) | Secure Agent-to-Agent (A2A) messaging skill for OpenClaw. |
+| [itdog-skill](https://github.com/Ramses1984/itdog-skill) | Enable fast and accurate network speed tests with itdog.cn, using Clawdbot's Python skill for batch ping and HTTP response tracking. |
 
 ## ⚡ Productivity & Automation Skills
 *Skills for workflow automation, data management, and operational efficiency.*
@@ -198,6 +207,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [note-todo-skill](https://github.com/MomoChenisMe/awesome-momochenisme-skills) | A note-taking and todo management skill for OpenClaw. |
 | [baoyu-post-to-x](https://github.com/JimLiu/baoyu-skills) | Post content and long-form Markdown articles to X (Twitter) using Chrome CDP. |
 | [baoyu-post-to-wechat](https://github.com/JimLiu/baoyu-skills) | Post content or full articles to WeChat Official Account with rich formatting. |
+| [dingtalk-moltbot-connector](https://github.com/ALI-FAHD/dingtalk-moltbot-connector) | Connect DingTalk with OpenClaw Gateway for AI-driven chat responses and session management using a bot or DEAP Agent integration. |
 
 ## 🛠️ Skill Management & Creation Tools
 *Tools to discover, manage, and generate new skills.*
@@ -239,6 +249,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [ARIA](https://github.com/Patysko/ARIA) | AI agent with self-improvement, compressed memory, and skill system. |
 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Professional-grade toolkits for content creation, image processing, and automation. |
 | [skill.fish](https://skill.fish) | A platform for discovering and installing AI agent skills. |
+| [skilld](https://github.com/harlan-zw/skilld) | Generate AI agent skills from your NPM dependencies. npx skilld |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
