@@ -89,6 +89,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [lambda-lang-skill](https://github.com/voidborne-agent/lambda-lang-skill) | OpenClaw skill for Lambda agent-to-agent communication language. |
 | [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) | Smart contracts, tools, and skills for AI agents that transact on Starknet |
 | [Clavain](https://github.com/mistakeknot/Clavain) | General-purpose engineering discipline plugin for Claude Code. 27 skills, 23 agents, 21 commands |
+| [AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code. |
 
 ## 💼 Business & Specialized Industry Skills
 *Skills for marketing, smart homes, and other specific domains.*
@@ -142,6 +143,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [pubmed-skill](https://github.com/masa061580/pubmed-skill) | PubMed/PMC literature search skill for OpenClaw/Claude Code. |
 | [hybrid-search-skill-public](https://github.com/writerclaw/hybrid-search-skill-public) | OpenClaw Hybrid Search skill + code sanitized export |
 | [yfinance-ai-skill](https://github.com/lkcair/yfinance-ai-skill) | OpenClaw Finance Data Pull yfinance-ai Skill |
+| [0xarchive-skill](https://github.com/0xArchiveIO/0xarchive-skill) | Querying historical crypto market data from 0xArchive across Hyperliquid, Lighter.xyz, and HIP-3. |
 
 ## 🎨 Creative & Media
 *Tools for image, video, and audio generation.*
@@ -170,6 +172,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-image-gen](https://github.com/JimLiu/baoyu-skills) | AI SDK-based image generation using OpenAI, Google, and Aliyun APIs. |
 | [baoyu-compress-image](https://github.com/JimLiu/baoyu-skills) | Compress images to reduce file size while maintaining quality. |
 | [teams-meeting-audio](https://github.com/nova328/teams-meeting-audio) | OpenClaw skill for Teams/Zoom meetings with two-way audio (TTS + VAD + STT) |
+| [suno-claude-skill](https://github.com/Spidy88/suno-claude-skill) | Song style and lyric skill for Claude that helps users generate songs for Suno AI. |
+| [CS2_VibeSignatures](https://github.com/hzqst/CS2_VibeSignatures) | Generate CS2 signatures via Agent SKILLS with ida-pro-mcp. |
+| [faster-whisper-zh](https://github.com/joshua-deng/faster-whisper-zh) | Local Chinese speech recognition skill, 4x faster than original Whisper. |
 
 ## 🛡️ Security & Systems
 *Skills for forensics, file management, and security analysis.*
@@ -250,6 +255,11 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | Professional-grade toolkits for content creation, image processing, and automation. |
 | [skill.fish](https://skill.fish) | A platform for discovering and installing AI agent skills. |
 | [skilld](https://github.com/harlan-zw/skilld) | Generate AI agent skills from your NPM dependencies. npx skilld |
+| [claude-code-marketplace](https://github.com/Lordjiggy/claude-code-marketplace) | Discover specialized agents and automation workflows in a community-driven marketplace. |
+| [claude-skills-supercharged](https://github.com/Sanskar015/claude-skills-supercharged) | Auto-injects Claude Code Skills based on prompts to ensure accurate context loading. |
+| [nix-skills](https://github.com/sudosubin/nix-skills) | Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com. |
+| [openclaw-collector](https://github.com/xpfasd/openclaw-collector) | Auto-collected OpenClaw Skills & Docs Collection every 30 minutes. |
+| [skillpm](https://github.com/eddieran/skillpm) | The universal package manager for AI agent skills. |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
