@@ -28,6 +28,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-danger-x-to-markdown](https://github.com/JimLiu/baoyu-skills) | Converts X (Twitter) content to markdown format. Supports tweet threads and X Articles. |
 | [baoyu-format-markdown](https://github.com/JimLiu/baoyu-skills) | Format plain text or markdown files with proper frontmatter, titles, summaries, etc. |
 | [douban-sync-skill](https://github.com/cosformula/douban-sync-skill) | Douban (璞嗙摚) collection sync to Markdown 鈥 agent skill for exporting and incrementally syncing book/movie/music history |
+| [dom-to-markdown](https://github.com/velcroxlabs/dom-to-markdown) | OpenClaw skill to convert web pages to clean markdown with automatic page type detection |
 
 ## 💻 Development & Engineering Skills
 *Skills specifically designed to extend Claude's software engineering capabilities.*
@@ -90,6 +91,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) | Smart contracts, tools, and skills for AI agents that transact on Starknet |
 | [Clavain](https://github.com/mistakeknot/Clavain) | General-purpose engineering discipline plugin for Claude Code. 27 skills, 23 agents, 21 commands |
 | [AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code. |
+| [skills](https://github.com/ShiverSparkle/skills) | Enhance coding agents with a comprehensive set of skills to improve performance. |
+| [skill-embercloud](https://github.com/Jarvis-And-I/skill-embercloud) | EmberCloud skill for Clawdbot - GLM-5, MiniMax, and more. |
 
 ## 💼 Business & Specialized Industry Skills
 *Skills for marketing, smart homes, and other specific domains.*
@@ -122,6 +125,8 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [PayLobster](https://github.com/itsGustav/PayLobster) | USDC Agent Skill for Circle payments on Clawdbot. |
 | [ceos](https://github.com/bradfeld/ceos) | EOS (Entrepreneurial Operating System) skills for Claude Code. Run your business on EOS with AI. |
 | [x-twitter-skill](https://github.com/aaronnev/x-twitter-skill) | X/Twitter analytics skill for AI agents. Official API, ~$1-2/mo, no scraping. |
+| [claude-product-workflow](https://github.com/ZeNos983/claude-product-workflow) | Transform product ideas into development-ready documents. |
+| [openscan-crypto-skill](https://github.com/AugustoL/openscan-crypto-skill) | OpenClaw skill for navigating crypto networks via OpenScan. |
 
 ## 📊 Data & Analysis
 *Tools for databases, visualization, research, and scraping.*
@@ -213,6 +218,7 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [baoyu-post-to-x](https://github.com/JimLiu/baoyu-skills) | Post content and long-form Markdown articles to X (Twitter) using Chrome CDP. |
 | [baoyu-post-to-wechat](https://github.com/JimLiu/baoyu-skills) | Post content or full articles to WeChat Official Account with rich formatting. |
 | [dingtalk-moltbot-connector](https://github.com/ALI-FAHD/dingtalk-moltbot-connector) | Connect DingTalk with OpenClaw Gateway for AI-driven chat responses and session management using a bot or DEAP Agent integration. |
+| [manifest](https://github.com/mnfst/manifest) | Real-time cost observability for your OpenClaw agents. |
 
 ## 🛠️ Skill Management & Creation Tools
 *Tools to discover, manage, and generate new skills.*
@@ -260,6 +266,9 @@ A curated list of **Claude Skills** (task-specific toolkits) and **Skill-related
 | [nix-skills](https://github.com/sudosubin/nix-skills) | Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com. |
 | [openclaw-collector](https://github.com/xpfasd/openclaw-collector) | Auto-collected OpenClaw Skills & Docs Collection every 30 minutes. |
 | [skillpm](https://github.com/eddieran/skillpm) | The universal package manager for AI agent skills. |
+| [claude-plugins](https://github.com/rentspree/claude-plugins) | RentSpree Claude Code Plugin – shared skills, commands, agents, and hooks. |
+| [llm_system_template](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts) | Build and customize AI agents, skills, and patterns. |
+| [claude-code-for-beginners](https://github.com/Necika123/claude-code-for-beginners) | Master AI development with this free beginner's course on Claude Code. |
 
 ## 📚 Awesome Lists (Resource Hubs)
 *Curated collections specifically focused on skills.*
